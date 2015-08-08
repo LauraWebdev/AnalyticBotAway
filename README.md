@@ -32,4 +32,4 @@ The script afterwards blocks any content from your page to not get included to y
 Some Bot's are not visiting your page.
 Those so called "Ghost Bots" directly interact with Google Analytics and never ever visit your page!
 To catch those tricky bots you'll have to ban them in Google Analytics.
-A great tutorial to do that can be found (here)[http://thrivenetmarketing.com/analytics/how-to-block-ghost-referrer-spam-in-google-analytics/].
+A great tutorial to do that can be found [here](http://thrivenetmarketing.com/analytics/how-to-block-ghost-referrer-spam-in-google-analytics/).
